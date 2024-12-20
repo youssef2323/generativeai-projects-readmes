@@ -3,6 +3,9 @@
 ## Overview
 The News Research Tool is an AI-powered application that allows users to extract, process, and analyze content from news articles. By entering article URLs, the tool processes the text, generates embeddings, and provides answers to user queries with references to the original articles.
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
+
 ---
 
 ## Screenshots
