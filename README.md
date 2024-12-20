@@ -3,6 +3,8 @@
 ## Overview
 This repository contains a collection of my projects showcasing the power of Generative AI. Each project is designed to solve real-world problems using advanced AI techniques such as LangChain, LLMs, embeddings, and more.
 
+⚠️ **Note**: The full source code for these  projects is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
 ## Table of Contents
 1. [Restaurant Name Generator](./RestaurantNameGenerator)
    - Generate creative restaurant names and menu ideas based on cuisine type.
