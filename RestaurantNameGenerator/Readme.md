@@ -3,6 +3,9 @@
 ## Overview
 Restaurant Name Generator is a web-based application that allows users to generate creative restaurant names and corresponding menu items based on a selected cuisine type. The application uses AI-powered tools to provide meaningful outputs tailored to user preferences.
 
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
+
 ---
 
 ## Screenshots
