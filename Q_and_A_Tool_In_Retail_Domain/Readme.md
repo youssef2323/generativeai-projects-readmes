@@ -3,6 +3,10 @@
 ## Overview
 Atliq T-Shirts Database Q&A is a web-based application that allows users to ask natural language questions about a t-shirt inventory database. The application uses AI-powered tools to dynamically generate SQL queries, fetch data from the database, and provide accurate, real-time answers.
 
+
+⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
+
+
 ---
 
 ## Screenshots
