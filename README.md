@@ -10,7 +10,7 @@ This repository contains a collection of my projects showcasing the power of Gen
    - AI-powered Q&A tool for querying a t-shirt inventory database.
 3. [News Research Tool](./News_Research_Tool)
    - Extract and analyze news articles to answer user queries with references.
-4. [Code Email Generator](./Code_Email_Generator/app)
+4. [Code Email Generator](./Code_Email_Generator)
    - Generate personalized cold emails based on job postings and a professional portfolio.
 
 ## Technologies Used
