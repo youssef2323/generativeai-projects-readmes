@@ -1,7 +1,7 @@
 # Cold Email Generator 📧
 
 ## Overview
-The Code Email Generator is a web-based application designed to generate personalized, AI-powered cold emails for potential clients. By scraping job details from a URL, the tool processes the data to identify job descriptions and relevant skills, matching them with AtliQ's portfolio to craft a professional email.
+The Cold Email Generator is a web-based application designed to generate personalized, AI-powered cold emails for potential clients. By scraping job details from a URL, the tool processes the data to identify job descriptions and relevant skills, matching them with AtliQ's portfolio to craft a professional email.
 
 ⚠️ **Note**: The full source code for this project is private. If you are interested in viewing the code, feel free to reach out via [yi559668@gmail.com].
 
@@ -83,5 +83,6 @@ The Code Email Generator is a web-based application designed to generate persona
    - Matches job requirements with AtliQ’s portfolio to add credibility.
 4. **Interactive Web App**:
    - Built with Streamlit for a seamless user experience.
+
 
 
